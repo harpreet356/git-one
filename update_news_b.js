@@ -1,0 +1,1 @@
+conmsole.log("update news");
